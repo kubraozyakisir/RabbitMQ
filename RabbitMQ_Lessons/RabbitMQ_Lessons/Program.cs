@@ -4,7 +4,7 @@ using System.Text;
 //Bağlantı oluşturma
 ConnectionFactory factory = new();
 
-factory.Uri = new ("amqps://qoxhlkik:yO2iEwKJ9VcxsAOHpV9cHKtAjPgK5O5D@gull.rmq.cloudamqp.com/qoxhlkik" );
+factory.Uri = new ("amqps://qoxhlkik:yO2iEwKJ9VcxsAOHpV9cHKtAjPgK5O5D@gull.rmq.cloudamqp.com/qoxhlkik");
 
 //Bağlantıyı aktifleştirme ve kanal açma
 using IConnection connection = factory.CreateConnection();
@@ -18,7 +18,11 @@ channel.QueueDeclare(queue: "example-queue",exclusive:false); // exclusive; bu k
 //Queue'ya mesaj gonderme
 //rabbitmq kuyruğa atacağı mesajları, byte türünden kabul etmektedir.
 //So,mesajı, byte çevirmeliyiz.
-byte[] message = Encoding.UTF8.GetBytes("Merhaba");
-channel.BasicPublish(exchange:"",routingKey:"example-queue",body:message);
+for(int i=0 ; i<10; i++)
+{
+    byte[] message = Encoding.UTF8.GetBytes("Merhaba"+i);
+    channel.BasicPublish(exchange: "", routingKey: "example-queue", body: message);
+
+}
 //exchange boş, zaten default olarak direct change.
 Console.Read();

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b2hJBreDCBZJPOsvlKOA21ce+NQpD1nE4MCMWNFxTAvmSbQvxKoKmZWncSz4jvIBBb0sNIsBbAOJjFhN8XTKfA==",
+  "dgSpecHash": "Vav/NuYPDhkq/s0Kv9kIQ3hZisH36cvOvnIXJ7iUdX1hY2H27noD+Iizun2N/HkkrTIkTAv8Ycn2Q8QO20JMPw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kubra\\OneDrive\\Masaüstü\\RabbitMQ_Trials\\RabbitMQ_Trials\\RabbitMQ_Lessons\\RabbitMQ_Lessons\\RabbitMQ_Publisher.csproj",
+  "projectFilePath": "C:\\Users\\kubra\\OneDrive\\Belgeler\\GitHub\\RabbitMQ\\RabbitMQ\\RabbitMQ_Lessons\\RabbitMQ_Lessons\\RabbitMQ_Publisher.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kubra\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
     "C:\\Users\\kubra\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",

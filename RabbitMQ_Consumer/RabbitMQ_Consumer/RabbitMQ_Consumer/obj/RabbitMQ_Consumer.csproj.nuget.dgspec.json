@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kubra\\OneDrive\\Masaüstü\\RabbitMQ_Trials\\RabbitMQ_Trials\\RabbitMQ_Consumer\\RabbitMQ_Consumer\\RabbitMQ_Consumer\\RabbitMQ_Consumer.csproj": {}
+    "C:\\Users\\kubra\\OneDrive\\Belgeler\\GitHub\\RabbitMQ\\RabbitMQ\\RabbitMQ_Consumer\\RabbitMQ_Consumer\\RabbitMQ_Consumer\\RabbitMQ_Consumer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kubra\\OneDrive\\Masaüstü\\RabbitMQ_Trials\\RabbitMQ_Trials\\RabbitMQ_Consumer\\RabbitMQ_Consumer\\RabbitMQ_Consumer\\RabbitMQ_Consumer.csproj": {
+    "C:\\Users\\kubra\\OneDrive\\Belgeler\\GitHub\\RabbitMQ\\RabbitMQ\\RabbitMQ_Consumer\\RabbitMQ_Consumer\\RabbitMQ_Consumer\\RabbitMQ_Consumer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kubra\\OneDrive\\Masaüstü\\RabbitMQ_Trials\\RabbitMQ_Trials\\RabbitMQ_Consumer\\RabbitMQ_Consumer\\RabbitMQ_Consumer\\RabbitMQ_Consumer.csproj",
+        "projectUniqueName": "C:\\Users\\kubra\\OneDrive\\Belgeler\\GitHub\\RabbitMQ\\RabbitMQ\\RabbitMQ_Consumer\\RabbitMQ_Consumer\\RabbitMQ_Consumer\\RabbitMQ_Consumer.csproj",
         "projectName": "RabbitMQ_Consumer",
-        "projectPath": "C:\\Users\\kubra\\OneDrive\\Masaüstü\\RabbitMQ_Trials\\RabbitMQ_Trials\\RabbitMQ_Consumer\\RabbitMQ_Consumer\\RabbitMQ_Consumer\\RabbitMQ_Consumer.csproj",
+        "projectPath": "C:\\Users\\kubra\\OneDrive\\Belgeler\\GitHub\\RabbitMQ\\RabbitMQ\\RabbitMQ_Consumer\\RabbitMQ_Consumer\\RabbitMQ_Consumer\\RabbitMQ_Consumer.csproj",
         "packagesPath": "C:\\Users\\kubra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kubra\\OneDrive\\Masaüstü\\RabbitMQ_Trials\\RabbitMQ_Trials\\RabbitMQ_Consumer\\RabbitMQ_Consumer\\RabbitMQ_Consumer\\obj\\",
+        "outputPath": "C:\\Users\\kubra\\OneDrive\\Belgeler\\GitHub\\RabbitMQ\\RabbitMQ\\RabbitMQ_Consumer\\RabbitMQ_Consumer\\RabbitMQ_Consumer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
@@ -47,6 +47,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

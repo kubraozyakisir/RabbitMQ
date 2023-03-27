@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kubra\\OneDrive\\Masaüstü\\RabbitMQ_Trials\\RabbitMQ_Trials\\RabbitMQ_Lessons\\RabbitMQ_Lessons\\RabbitMQ_Publisher.csproj": {}
+    "C:\\Users\\kubra\\OneDrive\\Belgeler\\GitHub\\RabbitMQ\\RabbitMQ\\RabbitMQ_Lessons\\RabbitMQ_Lessons\\RabbitMQ_Publisher.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kubra\\OneDrive\\Masaüstü\\RabbitMQ_Trials\\RabbitMQ_Trials\\RabbitMQ_Lessons\\RabbitMQ_Lessons\\RabbitMQ_Publisher.csproj": {
+    "C:\\Users\\kubra\\OneDrive\\Belgeler\\GitHub\\RabbitMQ\\RabbitMQ\\RabbitMQ_Lessons\\RabbitMQ_Lessons\\RabbitMQ_Publisher.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kubra\\OneDrive\\Masaüstü\\RabbitMQ_Trials\\RabbitMQ_Trials\\RabbitMQ_Lessons\\RabbitMQ_Lessons\\RabbitMQ_Publisher.csproj",
+        "projectUniqueName": "C:\\Users\\kubra\\OneDrive\\Belgeler\\GitHub\\RabbitMQ\\RabbitMQ\\RabbitMQ_Lessons\\RabbitMQ_Lessons\\RabbitMQ_Publisher.csproj",
         "projectName": "RabbitMQ_Publisher",
-        "projectPath": "C:\\Users\\kubra\\OneDrive\\Masaüstü\\RabbitMQ_Trials\\RabbitMQ_Trials\\RabbitMQ_Lessons\\RabbitMQ_Lessons\\RabbitMQ_Publisher.csproj",
+        "projectPath": "C:\\Users\\kubra\\OneDrive\\Belgeler\\GitHub\\RabbitMQ\\RabbitMQ\\RabbitMQ_Lessons\\RabbitMQ_Lessons\\RabbitMQ_Publisher.csproj",
         "packagesPath": "C:\\Users\\kubra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kubra\\OneDrive\\Masaüstü\\RabbitMQ_Trials\\RabbitMQ_Trials\\RabbitMQ_Lessons\\RabbitMQ_Lessons\\obj\\",
+        "outputPath": "C:\\Users\\kubra\\OneDrive\\Belgeler\\GitHub\\RabbitMQ\\RabbitMQ\\RabbitMQ_Lessons\\RabbitMQ_Lessons\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
